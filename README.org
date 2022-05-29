@@ -2,7 +2,7 @@
 The repository is my solution to patest.
 
 * Problem Set
-** 10001 A + B Format
+* [[./1001AplusBFormat/solution.cpp][10001 A + B Format]]
 使用cpp, 第一反应是转换成string然后使用vector做，具体是使用循环，每三个字符插入一个comma。
 
 遇到的问题：对cpp不熟悉（忘了）所以要现找资料，比如vector插入，字符reverse，总的来说这道题用暴力破解还是很简单的
